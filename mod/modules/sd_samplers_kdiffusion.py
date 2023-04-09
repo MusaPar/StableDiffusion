@@ -8,7 +8,6 @@ from modules import prompt_parser, devices, sd_samplers_common
 from modules.shared import opts, state
 import modules.shared as shared
 from modules.script_callbacks import CFGDenoiserParams, cfg_denoiser_callback
-from modules.script_callbacks import CFGDenoisedParams, cfg_denoised_callback
 
 samplers_k_diffusion = [
     ('Euler a', 'sample_euler_ancestral', ['k_euler_a', 'k_euler_ancestral'], {}),
