@@ -1,0 +1,12 @@
+﻿name,prompt,negative_prompt
+None,,
+gold2,"gold, jade, jewelry, high detail, masterpiece, (ruby:1.2), closeup, product view, trending on artstation, cgsociety, ultra quality, digital art, exquisite hyper details, 4k, fashion, rendering by unreal engine","(anime, cartoon), monochrome, ugly, blurry, low resolution, deformed, face"
+face2,"masterpiece, high detail, beautiful, straight face, eyebrows_hidden_by_hair","(anime, cartoon), monochrome, ugly, blurry, low resolution, deformed"
+gundam,"masterpiece,  high detail, realistic, (shiny_skin :1.2), (everyone:1.2), (crowd:1.3) outside, (navel:1.2), bursting_breasts, (gigantic_breasts:1.3), huge_breasts, walking, street, (muscular:1), (thigh_strap:1.3), facing_viewer, Armor Girl Project: MS Girl (Gundam:1.3), (colorful:1.3), (multicolored_hair:1.2), functionally_nude, pose, 3girls","(panties, leotard, anime, cartoon), monochrome, ugly, blurry, low resolution, deformed, penis, split image, pants, fat, obese, extra limb, extra hand, pants, trousers, colored_skin"
+waternark,,"watermark, signature"
+ornate,"ornate, intricate, fine details",
+face3,"detailed eyes, sparkling_eyes, masterpiece, high detail, beautiful, smile, eyebrows_hidden_by_hair","(anime, cartoon), monochrome, ugly, blurry, low resolution, deformed"
+face3b,"ornate, intricate, fine details, detailed eyes, sparkling_eyes, masterpiece, high detail, beautiful, smile, eyebrows_hidden_by_hair, +_+, star-shaped_pupils, ","(anime, cartoon), monochrome, ugly, blurry, low resolution, deformed"
+Gundam_D,"ornate, intricate, fine details, robot, gundam, metal, armor, hair_ornament","(anime, cartoon), monochrome, ugly, blurry, low resolution, deformed"
+face4,"ornate, intricate, fine details, detailed eyes, sparkling_eyes, (multicolored_eyes:1.1), masterpiece, high detail, beautiful, smile, eyebrows_hidden_by_hair, +_+, star-shaped_pupils, ","(anime, cartoon), monochrome, ugly, blurry, low resolution, deformed"
+gundam-fix,"masterpiece, high detail, mecha, robot, gundam, mechanical, armor","(anime, cartoon), monochrome, ugly, blurry, low resolution, deformed"
