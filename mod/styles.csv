@@ -10,3 +10,7 @@ face3b,"ornate, intricate, fine details, detailed eyes, sparkling_eyes, masterpi
 Gundam_D,"ornate, intricate, fine details, robot, gundam, metal, armor, hair_ornament","(anime, cartoon), monochrome, ugly, blurry, low resolution, deformed"
 face4,"ornate, intricate, fine details, detailed eyes, sparkling_eyes, (multicolored_eyes:1.1), masterpiece, high detail, beautiful, smile, eyebrows_hidden_by_hair, +_+, star-shaped_pupils, ","(anime, cartoon), monochrome, ugly, blurry, low resolution, deformed"
 gundam-fix,"masterpiece, high detail, mecha, robot, gundam, mechanical, armor","(anime, cartoon), monochrome, ugly, blurry, low resolution, deformed"
+Def Lyriel,"HDR, (world class composition, stunning artistic vision, highest quality, world class compositional masterpiece:1.25), detailed, intricate, volumetric lighting, good shading, good highlights, good composition, good anatomy, good proportions, good architecture, (realistic:1.3), (concept art)","(low quality, bad design, bad art, worst quality:1.3), blurry, (bad anatomy), (bad proportions), extra digit, fewer digits, (extra arms:1.2), (extra moons, two moons), ((floating castle)), ((moon in ground)), (large moon:0.6), galaxy:0.2, (text, words, signature, font, logo, brand:1.6),  NG_bad_prompt_version2, NG_EasyNegative"
+base,"(best quality,  masterpiece:1.25)","(low quality, worst quality:1.3),"
+base add_detail,"(best quality,  masterpiece:1.25),  <lora:add_detail:1>","(low quality, worst quality:1.3),"
+artgem,art by artgerm and greg rutkowski and alphonse mucha,
